@@ -1,0 +1,498 @@
+Tabulation wave
+1981-1984    2325
+2010-2013    2232
+1995         1542
+2005-2007    1249
+1999-2004    1200
+Name: wave, dtype: int64
+______________________________
+Tabulation country
+United States    8548
+Name: country, dtype: int64
+______________________________
+Tabulation imp_family
+Very important          5837
+Rather important         312
+Not very important        40
+Not at all important      18
+No answer                 14
+Dont know                  1
+dk                         1
+Name: imp_family, dtype: int64
+______________________________
+Tabulation imp_religion
+Very important          3097
+Rather important        1597
+Not very important       980
+Not at all important     509
+No answer                 28
+dk                         8
+Dont know                  4
+Name: imp_religion, dtype: int64
+______________________________
+Tabulation happiness
+Quite happy         3477
+Very happy          3147
+Rather happy        1219
+Not very happy       589
+Not at all happy      63
+No answer             39
+Dont know              8
+dk                     6
+Name: happiness, dtype: int64
+______________________________
+Tabulation satisfaction_life
+8                                        2259
+9                                        1644
+7                                        1482
+Satisfied                                 987
+6                                         648
+5                                         647
+4                                         292
+Completely satisfied                      199
+3                                         181
+2                                          92
+Dissatisfied                               56
+Completely dissatisfied                    20
+No answer; BH: Refused                     16
+No answer                                  11
+dk                                          8
+Missing; Not asked by the interviewer       6
+Name: satisfaction_life, dtype: int64
+______________________________
+Tabulation univ_imp_boy_girl
+Disagree                                 3311
+Strongly disagree                        2211
+Agree                                     471
+Agree strongly                             76
+Dont know                                  60
+Strongly agree                             53
+No answer                                  28
+Missing; Not asked by the interviewer      13
+Name: univ_imp_boy_girl, dtype: int64
+______________________________
+Tabulation housewife_fulfill_work
+Agree                                    3082
+Agree strongly                           1252
+Disagree                                 1113
+Strongly agree                            405
+Strongly disagree                         180
+Dont know                                 139
+No answer                                  39
+Missing; Not asked by the interviewer      13
+Name: housewife_fulfill_work, dtype: int64
+______________________________
+Tabulation marital
+Married                       3563
+Dissatisfied                  1225
+Single                         934
+6                              615
+Divorced                       602
+Widowed                        389
+Living together as married     320
+Single/Never married           275
+5                              201
+3                              142
+Separated                      136
+2                               66
+4                               61
+No answer                       15
+dk                               4
+Name: marital, dtype: int64
+______________________________
+Tabulation num_children
+2 children                    1341
+Not asked                     1249
+3 children                     762
+1 child                        716
+No children                    660
+Living together as married     498
+4 children                     428
+Married                        372
+No child                       360
+None                           343
+Divorced                       294
+5 children                     169
+Separated                      165
+Single/Never married           103
+6 children                      81
+Widowed                         78
+7 children                      34
+8 + children                    24
+No answer                       17
+8 or more children              16
+na                               6
+Name: num_children, dtype: int64
+______________________________
+Tabulation satisfaction_finance
+8                                        1134
+7                                        1080
+5                                         763
+6                                         722
+9                                         566
+4                                         483
+Satisfied                                 417
+3                                         355
+5child                                    270
+6child                                    235
+Dissatisfied                              217
+2                                         189
+Completely satisfied                      148
+4child                                    132
+3child                                    131
+1child                                    124
+Completely dissatisfied                   110
+2child                                     76
+No answer                                  24
+No answer; BH: Refused                     16
+Missing; Not asked by the interviewer      14
+dk                                          6
+Dont know                                   1
+Name: satisfaction_finance, dtype: int64
+______________________________
+Tabulation confidence_women_org
+Quite a lot                              2678
+Not very much                            2224
+None at all                               507
+A great deal                              361
+dk                                        165
+Great deal                                147
+No answer                                  67
+Dont know                                  49
+Missing; Not asked by the interviewer      25
+Name: confidence_women_org, dtype: int64
+______________________________
+Tabulation respect_human
+Not asked                                              1542
+Not much respect                                       1384
+Some respect                                           1268
+Fairly muchrespect                                     1057
+A great deal of respect for individual human rights     321
+A lot of respect for individual human, rights           196
+A lot of respect for individual human rights            194
+Not respect at all                                       91
+No respect at all                                        90
+No answer                                                41
+Missing; Not asked by the interviewer                    32
+Dont know                                                 7
+Name: respect_human, dtype: int64
+______________________________
+Tabulation religious_denom
+Protestant                               3221
+Roman Catholic                           1401
+None                                     1372
+Other                                     770
+Catholic                                  696
+Other;Not specific                        334
+No, not a member                          293
+Jew                                       156
+No answer                                 126
+Buddhist                                   42
+Missing; Not asked by the interviewer      39
+dk                                         34
+Muslim                                     26
+Orthodox                                   25
+Hindu                                      13
+Name: religious_denom, dtype: int64
+______________________________
+Tabulation religious_person
+A religious person                       6505
+Not a religious person                   1403
+Not a religous person                     251
+An atheist                                105
+A convinced atheist                        94
+No answer                                  90
+Missing; Not asked by the interviewer      40
+dk                                         40
+Dont know                                  20
+Name: religious_person, dtype: int64
+______________________________
+Tabulation justify_gay
+Never justifiable                        2757
+5                                        1462
+Always justifiable                        882
+Never justified                           644
+6                                         379
+3                                         367
+2                                         360
+8                                         348
+4                                         307
+7                                         289
+9                                         233
+No answer                                 200
+Always justified                          139
+dk                                        116
+Missing; Not asked by the interviewer      43
+Dont know                                  22
+Name: justify_gay, dtype: int64
+______________________________
+Tabulation justify_abortion
+Never justifiable                        2135
+5                                        1708
+6                                         582
+2                                         568
+3                                         529
+Never justified                           527
+8                                         520
+Always justifiable                        498
+7                                         474
+4                                         408
+9                                         255
+No answer                                 143
+Always justified                           82
+dk                                         67
+Missing; Not asked by the interviewer      43
+Dont know                                   9
+Name: justify_abortion, dtype: int64
+______________________________
+Tabulation justify_divorce
+5                                        2378
+6                                         815
+Never justifiable                         780
+8                                         778
+7                                         774
+Always justifiable                        724
+3                                         524
+4                                         512
+9                                         390
+2                                         306
+Never justified                           183
+Always justified                          151
+No answer                                 146
+Missing; Not asked by the interviewer      43
+dk                                         39
+Dont know                                   5
+Name: justify_divorce, dtype: int64
+______________________________
+Tabulation employment_status
+Male                                               1079
+Full time                                           828
+Full time  30 hours a week or more                  689
+Full time employee (30 hours a week or, more)       594
+Other                                               476
+Unemployed                                          441
+Housewife                                           392
+Self employed                                       364
+Retired pensioned                                   329
+Students                                            265
+Female                                              256
+Part time                                           250
+Retired                                             246
+Retired/ pensioned                                  244
+Housewife not otherwise employed                    243
+Part time  less than 30 hours a week                129
+No answer                                            73
+No answer;SG: Refused                                68
+Student                                              32
+Part time employee (less than 30 hours a, week)       3
+Dont know,NA                                          1
+Name: employment_status, dtype: int64
+______________________________
+Tabulation chief_wage
+Yes                   3114
+No                    2428
+No answer               90
+dk                      22
+Dont know               14
+No answer; Unknown       5
+Name: chief_wage, dtype: int64
+______________________________
+Tabulation sex
+Female    2092
+Male      1899
+Name: sex, dtype: int64
+______________________________
+Tabulation year_birth
+No answer    47
+1953         32
+1952         31
+1963         30
+1962         30
+1956         29
+1970         28
+1955         28
+1954         28
+1978         26
+1950         26
+1972         25
+1979         25
+1968         24
+1980         24
+1966         24
+1977         23
+1961         23
+1951         23
+1965         23
+1959         23
+1973         23
+1964         23
+1984         23
+1971         22
+1949         22
+1941         22
+1945         22
+1947         21
+1943         21
+             ..
+1944         16
+1946         16
+1987         15
+1985         15
+1975         14
+1930         14
+1986         13
+1931         13
+1982         13
+1938         11
+1933         11
+1939         11
+1936         10
+1929          9
+1932          9
+1940          9
+1983          8
+1927          7
+1922          7
+1924          7
+1928          7
+1926          5
+1919          5
+1921          4
+1923          4
+1920          3
+1925          3
+1915          2
+1918          1
+1916          1
+Name: year_birth, Length: 75, dtype: int64
+______________________________
+Tabulation age
+Not asked in survey    2232
+dk                       22
+No answer                10
+Name: age, dtype: int64
+______________________________
+Tabulation edu
+Complete secondary school: technical/, vocational type       416
+University degree                                            387
+University with degree                                       363
+Secondary technical/vocational                               348
+Complete secondary school:, university-preparatory type      272
+Incomplete secondary school:, university-preparatory type    244
+Some university without degree                               241
+Some university education                                    235
+Complete primary school                                      195
+Complete secondary school: technical/vocational type         165
+Primary                                                      148
+Secondary technical/vocational incomplete                    146
+Incomplete secondary school: technical/, vocational type     143
+Secondary university preparatory                             116
+Incomplete secondary: university-preparatory type            115
+Some university-level education, without, degree             102
+Secondary university preparatory, incomplete                  97
+Complete secondary: university-preparatory type               76
+Incomplete secondary school: technical/vocational type        62
+Primary incomplete                                            55
+University - level education, with degree                     25
+Incomplete primary school                                     23
+None                                                           5
+dk                                                             5
+Dont know                                                      4
+No formal education                                            3
+Name: edu, dtype: int64
+______________________________
+Tabulation edu_age_complete
+Not asked in survey                      2232
+18                                        682
+na                                        316
+17                                        306
+22                                        206
+19                                        183
+21                                        170
+Missing; Not asked by the interviewer     153
+20                                        128
+23                                        111
+16                                        109
+25                                         92
+24                                         73
+Dont know                                  64
+26                                         52
+30                                         49
+27                                         42
+12                                         34
+15                                         34
+28                                         31
+29                                         25
+31                                         23
+40                                         23
+Not applicable                             22
+50                                         22
+14                                         20
+42                                         18
+45                                         17
+35                                         16
+32                                         16
+                                         ...
+36                                         15
+34                                         13
+13                                         13
+41                                         11
+37                                         11
+11                                          8
+39                                          7
+10                                          7
+47                                          6
+44                                          6
+43                                          6
+55                                          5
+46                                          4
+51                                          3
+48                                          3
+49                                          3
+9                                           3
+53                                          3
+8                                           2
+59                                          2
+56                                          2
+6                                           1
+1                                           1
+4                                           1
+57                                          1
+52                                          1
+7                                           1
+2                                           1
+3                                           1
+5                                           1
+Name: edu_age_complete, Length: 62, dtype: int64
+______________________________
+Tabulation ethnic
+US:White                                       1549
+US:  White                                     1212
+US: White, Non-Hispanic                        1183
+White / Caucasian White                         922
+US: Black, Non-Hispanic                         611
+US:Black                                        533
+US: Hispanic                                    342
+US: 2+Races, Non-Hispanic                       337
+US:Spanish; Hispanic                            243
+US: Other, Non-Hispanic                         238
+US:  Black                                      178
+US:South Asian(Indian, Pakistani, etc.)         173
+US:East Asian (Chinese, Japanese, etc.)         170
+Black African                                   127
+Spanish; Hispanic                               124
+Mixed races                                      40
+Other                                            36
+US:  East Asian (Chinese, Japanese, etc.)        32
+No answer                                        28
+US:  South Asian  (Indian, Pakistani, etc.)      12
+US:  Arabic (Central Asian)                       4
+Name: ethnic, dtype: int64
+______________________________
+Tabulation survey_year
+1981    2325
+1995    1542
+2006    1249
+1999    1200
+Name: survey_year, dtype: int64
+______________________________
